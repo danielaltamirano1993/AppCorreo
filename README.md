@@ -12,7 +12,7 @@
 
 ##### Capture the lines to be changed...
 
-img
+![Capture](https://user-images.githubusercontent.com/64813513/164580751-518c780a-6ba3-4611-978b-0e7a5a085a9f.JPG)
 
 # NOTE
 
