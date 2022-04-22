@@ -6,7 +6,7 @@
 
 ##### When the installation is complete, run the script from the package.json file.
 
-'npm run dev'
+`npm run dev`
 
 ##### Ready, once the configuration is changed with the host and mail, assigning the available SMTP port, the sending of mail to our Gmail mail will be accessed.
 
