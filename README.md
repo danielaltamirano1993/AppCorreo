@@ -1,21 +1,21 @@
-# Ejemplo de Mail con modulo
+# Mail example with module
 
-# Una vez descargado el proyecto, ejecutar con ayuda del comando
+# Once the project is downloaded, execute it with the help of the command
 
 `npm install`
 
-# Cuando la instalacion finalice, se debe correr el script del archivo package.json.
+# When the installation is complete, run the script from the package.json file.
 
 'npm run dev'
 
-##### Listo, una vez se cambie la configuracion con el host y correo asignando el puerto SMTP disponible se accedera al envio de correos a nuestro correo Gmail.
+##### Ready, once the configuration is changed with the host and mail, assigning the available SMTP port, the sending of mail to our Gmail mail will be accessed.
 
-# Captura de las lineas que se debe cambiar...
+# Capture the lines to be changed...
 
 img
 
-# NOTA
+# NOTE
 
-# El host inidicado en el ejemplo, ya no esta disponible por cuestiones de seguridad.
+# The host indicated in the example is no longer available for security reasons.
 
 `console.log('Bye')`
